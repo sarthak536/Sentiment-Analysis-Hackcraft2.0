@@ -1,8 +1,5 @@
 # 📊 Sentiment Analysis - Hackcraft 2.0
 
-[![GitHub Stars](https://img.shields.io/github/stars/sarthak536/Sentiment-Analysis-Hackcraft2.0?style=social)](https://github.com/sarthak536/Sentiment-Analysis-Hackcraft2.0)
-[![GitHub Forks](https://img.shields.io/github/forks/sarthak536/Sentiment-Analysis-Hackcraft2.0?style=social)](https://github.com/sarthak536/Sentiment-Analysis-Hackcraft2.0/fork)
-
 A robust and lightweight Sentiment Analysis project built for **Hackcraft 2.0**. This project classifies text data (like reviews or tweets) into **Positive**, **Negative**, or **Neutral** sentiments using machine learning and NLP techniques.
 
 ---
